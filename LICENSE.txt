@@ -1,0 +1,17 @@
+LICENSE
+
+Project: Shanazam AGI 2.6
+Author: Mohd Shamoon
+Date: July 5, 2025
+
+This software and its components are licensed exclusively to the buyer upon transfer.
+
+- Commercial, academic, and research rights are included.
+- Redistribution, resale, or sublicensing without written consent is prohibited.
+- All core ideas, modules, and code herein are original and authored by Mohd Shamoon.
+
+© 2025 Mohd Shamoon. All rights reserved.
+
+
+
+**Intellectual Property ID:** `849a125f3835-Shanazam-MohdShamoon`
